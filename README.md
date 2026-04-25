@@ -1,7 +1,7 @@
 # 🔒 Password-Protected Entry System (Basys 3 FPGA)
 
 ### 🎬 Hardware Demonstration
-(https://github.com/user-attachments/assets/22aad2bc-b6ba-4f27-ba9b-3f8da19bd923)
+<video src="https://github.com/user-attachments/assets/22aad2bc-b6ba-4f27-ba9b-3f8da19bd923" controls="controls" width="100%"></video>
 
 ## 📝 Project Overview
 This project implements a digital password lock on the Xilinx Basys 3 FPGA development board using Verilog HDL. It was designed to demonstrate the practical application of combinational and sequential logic, hardware debouncing, and display multiplexing. 
