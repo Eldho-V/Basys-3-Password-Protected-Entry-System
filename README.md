@@ -1,6 +1,6 @@
-#Password-Protected Entry System (Basys 3 FPGA)
+# Password-Protected Entry System (Basys 3 FPGA)
 
-###Hardware Demonstration
+## Hardware Demonstration
 <video src="https://github.com/user-attachments/assets/22aad2bc-b6ba-4f27-ba9b-3f8da19bd923" controls="controls" width="100%"></video>
 
 ##Project Overview
